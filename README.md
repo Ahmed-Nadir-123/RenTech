@@ -88,6 +88,12 @@ Follow these steps to set up the project locally:
 
 ---
 
+### Note for Server Configuration
+
+If you are using this project, ensure that the `__dirname` variable in the `server.js` file is updated to match the absolute path of your server directory. This is required for serving static files correctly.
+
+---
+
 ## 📜 Available Scripts
 
 In the project directory, you can run:
