@@ -135,8 +135,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 📧 Contact
 
 For any inquiries or support, please contact us at:
-- **Email**: contact@rentech.com
-- **Phone**: +968 99999999
+- **Email**: ahmednader2003331@gmail.com
+- **Phone**: +968 91246323
+- **Instagram**: [ahmed__31_3](https://www.instagram.com/ahmed__31_3/?igsh=MXhibXl0dTg5MXh4eQ%3D%3D#)
 
 ---
 
